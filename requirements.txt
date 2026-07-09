@@ -1,0 +1,37 @@
+# Streamlit
+streamlit>=1.37.0
+
+# Google Gemini
+google-generativeai>=0.8.0
+
+# Environment Variables
+python-dotenv>=1.0.1
+
+# Vector Database
+faiss-cpu>=1.8.0
+
+# LangChain
+langchain>=0.2.12
+langchain-community>=0.2.10
+langchain-text-splitters>=0.2.2
+
+# Numerical Computing
+numpy>=1.26.4
+
+# Data Processing
+pandas>=2.2.2
+
+# Progress Bar
+tqdm>=4.66.4
+
+# Serialization
+pickle5; python_version < "3.8"
+
+# Optional Evaluation
+ragas>=0.1.9
+
+# Optional
+matplotlib>=3.9.1
+
+#pip install sentence-transformers
+sentence-transformers
