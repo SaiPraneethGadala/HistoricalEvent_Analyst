@@ -1,5 +1,13 @@
 # 📚 Historical Event Analyst
 ### Retrieval-Augmented Generation (RAG) using Gemini API + FAISS + Streamlit
+## 🚀 Live Demo
+
+The Historical Event Analyst application is deployed on **Streamlit Cloud**.
+
+🔗 **Try the live application here:**
+https://historicaleventanalyst-5pkjnjs68sy9rxz4iyrrte.streamlit.app/
+
+Feel free to explore and test the Historical Event Analyst application.
 
 A production-ready Retrieval-Augmented Generation (RAG) application that answers questions about **World War I** using a custom knowledge base of historical documents.
 
